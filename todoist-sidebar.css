@@ -1,0 +1,46 @@
+.sidebar .block-language-todoist{
+  margin-left: -30px;
+}
+.sidebar .todoist-query-title{
+  font-family: system-ui;
+  font-size: .85em;
+  font-variant-caps: all-small-caps;
+  margin-left: -2px;
+}
+.sidebar .todoist-refresh-button{
+  display: inline;
+  float: right;
+}
+.sidebar .todoist-task-list{
+  margin: 0 0 0 0;
+  font-size: .85em;
+  padding: 0px;
+}
+.sidebar .task-project{
+  font-size: .75em;
+  margin-left: 13px;
+}
+.sidebar .task-date{
+  visibility: hidden;
+}
+.sidebar .task-project-icon, .task-calendar-icon, .task-labels-icon{
+    height: 15px;
+    width: 15px;
+    vertical-align: text-top;
+}
+.sidebar .task-list-item-checkbox{
+  width: 12px;
+  height: 12px;
+}
+.sidebar .external-link{
+  background-size: 13px;
+  background-position: top right;
+}
+.sidebar .task-metadata{
+  margin: 0 0 0 0;
+  line-height: 20px;
+}
+.sidebar .contains-task-list{
+  margin: 0 0 0 0;
+  line-height: 0px;
+}
