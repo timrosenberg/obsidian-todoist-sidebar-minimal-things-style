@@ -33,8 +33,8 @@
   height: 12px;
 }
 .sidebar .external-link{
-  background-size: 13px;
-  background-position: top right;
+  background-size: 12px;
+  background-position: center right;
 }
 .sidebar .task-metadata{
   margin: 0 0 0 0;
@@ -50,4 +50,13 @@
   line-height: 20px;
   padding: 0 0 0 0;
   margin: 0 0 0 0;
+}
+.sidebar .task-labels{
+  font-size: .75em;
+}
+.sidebar .task-labels-icon{
+  width: 12px;
+  height: 12px;
+  vertical-align: text-bottom;
+  opacity: 70%;
 }
